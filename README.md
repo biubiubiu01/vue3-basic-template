@@ -1,4 +1,4 @@
-<h1 align="center">vue3-basic-admin</h1>
+<h1 align="center">vue3-basic-template</h1>
 
 ![GitHub license](https://img.shields.io/github/license/biubiubiu01/vue3-basic-template?style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/biubiubiu01/vue3-basic-template?color=fa6470&style=flat)
